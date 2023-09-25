@@ -1,7 +1,6 @@
 {
   "name": "devopstutorial2023",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jtest",
@@ -9,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liszt831020/devopsTutorial2023.git"
+    "url": "git@github.com:liszt831020/devopsTutorial2023.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,10 +17,14 @@
   },
   "homepage": "https://github.com/liszt831020/devopsTutorial2023#readme",
   "devDependencies": {
-    "husky": "^8.0.0"
+    "@semantic-release/changelog": "github:semantic-release/changelog",
+    "@semantic-release/git": "github:semantic-release/git",
+    "husky": "^8.0.0",
+    "semantic-release": "^22.0.5"
   },
   "dependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0"
-  }
+  },
+  "description": ""
 }
