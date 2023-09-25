@@ -19,5 +19,9 @@
   "homepage": "https://github.com/liszt831020/devopsTutorial2023#readme",
   "devDependencies": {
     "husky": "^8.0.0"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0"
   }
 }
