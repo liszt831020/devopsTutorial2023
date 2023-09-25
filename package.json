@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jtest"
+    "test": "jtest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/liszt831020/devopsTutorial2023/issues"
   },
-  "homepage": "https://github.com/liszt831020/devopsTutorial2023#readme"
+  "homepage": "https://github.com/liszt831020/devopsTutorial2023#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
 }
