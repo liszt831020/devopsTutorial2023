@@ -1,0 +1,19 @@
+{
+  "name": "devopstutorial2023",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liszt831020/devopsTutorial2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liszt831020/devopsTutorial2023/issues"
+  },
+  "homepage": "https://github.com/liszt831020/devopsTutorial2023#readme"
+}
