@@ -22,7 +22,4 @@ module.exports = {
       ],
 	  '@semantic-release/github',
     ],
-	// publishConfig: {
-	// 	access: 'public',
-	// },
   };
